@@ -19,5 +19,5 @@
 * I HAVE TAKEN HELP FROM GOOGLE , YOUTUBE , CHATGTP , TO COMPLETE THIS TASK .
 #OUTPUT
 
-<!-- Failed to upload "Screenshot (14).png" -->
-<!-- Failed to upload "Screenshot (15).png" -->
+![Image](https://github.com/user-attachments/assets/54897131-396b-4343-8b6a-f6bbef58c4cc)
+![Image](https://github.com/user-attachments/assets/48151d20-0912-490d-9871-fae1cbfd9328)
